@@ -22,3 +22,4 @@ Ideas for further development:
 - Ai generated Text-to-speech audio through a 6.3mm jack or speaker with integrated sound amplification or an audio module.
 - A button for generating a short summary of the story so far.
 - Case for the hardware
+- 4 number - 7 segment display for indicating the year selected.
