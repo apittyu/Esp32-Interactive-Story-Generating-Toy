@@ -7,7 +7,8 @@ Hardware:
 - Rotary encoder, 
 - 2x buttons,
 - RGB LED,
-- White LED
+- White LED,
+- Cables, resistors and a breadboard
 
 On startup the ESP32 connects to the Gemini API through WiFi. The user can select a year with the rotary encoder and generate a short story with the encoders built in button.
 The story ends with two choices for the two buttons on the circuit so that the user can choose how the story continues. After the user making the choice the Gemini Api is again used to generate the
